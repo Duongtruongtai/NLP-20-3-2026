@@ -1,0 +1,8 @@
+streamlit==1.29.0
+pandas==2.1.4
+underthesea==6.5.4
+wordcloud
+matplotlib
+plotly
+google-generativeai
+openpyxl
